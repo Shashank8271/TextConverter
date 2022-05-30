@@ -7,7 +7,7 @@ function App() {
   return (
     <>
      <Navbar pageName = "TEXT CHANGER" /> 
-     <div className="container"><Textbox heading= "Enter text below" submit = "Uppercase Only" /></div>
+     <div className="container"><Textbox heading= "Enter text below" submit = "Convert to Uppercase" /></div>
      
     </>
   
